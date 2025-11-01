@@ -1,0 +1,1 @@
+{"timestamp": "2025-11-01T00:00:00Z", "model": "gpt-4o", "model_version": "2025-10-xx", "temperature": 0.2, "prompt_id": "neutral", "prompt_text": "...", "response_text": "...", "mentions": ["A", "C"], "predicted_choice": "A", "notes": "manual run / pasted output"}
